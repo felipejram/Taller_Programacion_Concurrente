@@ -1,1 +1,1 @@
-HOLA SOY EL ARCHIVO1
+HOLA SOY EL ARCHIVO1,estoy aprendiendo comandos de git
